@@ -1,0 +1,6 @@
+image: isaac_ros_laboratory.png
+resolution: 0.01
+origin: [-1.6050000143051149, -3.514999980926514, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
